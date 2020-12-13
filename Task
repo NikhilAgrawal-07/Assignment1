@@ -1,2 +1,2 @@
-Create an interface to which contains methods createAccount(String name, String email), withdrawal(int amount), deposit(int amount).
-Create a derived class from given interface and then create a main class to ask user to create account and deposit and withdraw some amount.
+Create an class to which contains methods createAccount(String name, String email), withdrawal(int amount), deposit(int amount).
+Create a derived class from given class and then create a main class to ask user to create account and deposit and withdraw some amount.
